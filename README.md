@@ -6,4 +6,4 @@
 
 - [رزومه](https://saranaseri.github.io/sara_naseri/)
 
-- [انگیزه نامه] (https://saranaseri.github.io/sop/)
+- [انگیزه نامه](https://saranaseri.github.io/sop/)
