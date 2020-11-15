@@ -31,7 +31,7 @@
     <th>روز</th>
   </tr>
   <tr>
-    <th>ا</th>
+    <th></th>
     <th></th>
     <th></th>
     <th></th>
