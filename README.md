@@ -12,7 +12,7 @@
 
 - [jlord patchwork](https://github.com/saranaseri/PNU_3991_AR/blob/main/patchwork.png)
 
--[PNU_3991_AR](https://saranaseri.github.io/PNU_3991_AR/)
+- [PNU_3991_AR](https://saranaseri.github.io/PNU_3991_AR/)
 
 ## گروه ها
 
