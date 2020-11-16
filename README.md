@@ -45,6 +45,7 @@
 
 <table style="width:100%">
   <tr>
+     <th>20-22<th> 
     <th>18-20</th>
     <th>16-18</th>
     <th>14-16</th>
@@ -58,11 +59,13 @@
     <th></th>
     <th></th>
     <th></th>
+    <th></th>
     <th>شبکه های کامپیوتری</th>
     <th></th>
     <th>شنبه</th>
   </tr>
    <tr>
+    <th></th>   
     <th></th>
     <th></th>
     <th></th>
@@ -72,7 +75,8 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th>مهندسی نرم افزار1</th>
+     <th>مهندسی نرم افزار 1</th>
+     <th></th>
      <th></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">روش پژوهش و ارائه</a></th>
      <th></th>
@@ -81,7 +85,8 @@
     <th>دوشنبه</th>
   </tr>
    <tr>
-    <th>اصول طراحی پایگاه داده</th>
+    <th>اصول طراحی پایگاه داده ها</th>
+    <th></th>
     <th></th>
     <th>سیستم عامل</th>
     <th></th>
@@ -90,6 +95,7 @@
     <th>سه شنبه</th>
   </tr>
    <tr>
+     <th></th>
     <th></th>
     <th></th>
     <th></th>
@@ -105,10 +111,12 @@
     <th></th>
     <th></th>
     <th></th>
+    <th></th>
     <th>پنج شنبه</th>
   </tr>
      <tr>
     <th>طراحی زبان های برنامه سازی</th>
+    <th></th>
     <th></th>
     <th></th>
     <th></th>
