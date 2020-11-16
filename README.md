@@ -25,6 +25,7 @@
 
 ## درس کارشناسی
 [روش پژوهش و اراِئه 01-1322010](https://githubhttps://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods.com/)
+[مباحث ویژه 1 02-1322113]
 <br>
 
   
