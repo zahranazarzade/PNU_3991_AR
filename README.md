@@ -1,18 +1,18 @@
 # PNU_3991_AR
 ------
-### سارا ناصری
+### زهرا نظرزاده
 
-- [GITHUB](https://github.com/saranaseri)
+- [GITHUB](https://github.com/zahranazarzade)
 
-- [RESUME](https://saranaseri.github.io/sara_naseri/)
+- [RESUME](https://zahranazarzade.github.io/)
 
-- [SOP](https://saranaseri.github.io/sop/)
+- [SOP](https://zahranazarzade.github.io/sop)
 
-- [javascript Certificate](https://github.com/saranaseri/PNU_3991_AR/blob/main/sololearn.js.jpeg)
+- [javascript Certificate???](https://github.com/saranaseri/PNU_3991_AR/blob/main/sololearn.js.jpeg)
 
-- [jlord patchwork](https://github.com/saranaseri/PNU_3991_AR/blob/main/patchwork.png)
+- [jlord patchwork????](https://github.com/saranaseri/PNU_3991_AR/blob/main/patchwork.png)
 
-- [PNU_3991_AR](https://saranaseri.github.io/PNU_3991_AR/)
+- [PNU_3991_AR](https://github.com/zahranazarzade/PNU_3991_AR)
 
 ## گروه ها
 
