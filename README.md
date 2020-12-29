@@ -35,19 +35,8 @@
 
 
 ## درس کارشناسی
-[روش پژوهش و اراِئه 01-1322010](https://githubhttps://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods.com/)
+[روش پژوهش و اراِئه 01-1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 <br>
-[مباحث ویژه 1 02-1322113]
-<br>
-[1115146-01 مهندسي نرم افزار1]
-<br>
-[1322032-01 طراحي زبان هاي برنامه سازي]
-<br>
-[1322013-02 شبكه هاي كامپيوتري]
-<br>
-[1322012-02 سيستم هاي عامل]
-<br>
-[1115088-01 اصول طراحي پايگاه داده ها]
-<br>
+
 
 </div>
