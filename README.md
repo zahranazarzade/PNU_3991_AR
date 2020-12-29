@@ -9,7 +9,7 @@
 ### مشترک
 
 - [GITHUB](https://github.com/zahranazarzade)
-- [jlord patchwork](https://raw.githubusercontent.com/zahranazarzade/PNU_3991_AR/main/patchwork.png) [jlord patchwork2](https://raw.githubusercontent.com/zahranazarzade/PNU_3991_AR/main/patchwork2.png)
+- jlord patchwork [link1](https://raw.githubusercontent.com/zahranazarzade/PNU_3991_AR/main/patchwork.png)  [link2](https://raw.githubusercontent.com/zahranazarzade/PNU_3991_AR/main/patchwork2.png)
 - [RESUME](https://zahranazarzade.github.io/)
 - [SOP](https://zahranazarzade.github.io/sop)
 - [PNU_3991_AR](https://github.com/zahranazarzade/PNU_3991_AR)
