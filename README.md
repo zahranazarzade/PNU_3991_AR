@@ -9,16 +9,12 @@
 ### مشترک
 
 - [GITHUB](https://github.com/zahranazarzade)
-
+- [ ] [jlord patchwork](https://github.com/saranaseri/PNU_3991_AR/blob/main/patchwork.png)
 - [RESUME](https://zahranazarzade.github.io/)
-
 - [SOP](https://zahranazarzade.github.io/sop)
-
-- [javascript Certificate???](https://github.com/saranaseri/PNU_3991_AR/blob/main/sololearn.js.jpeg)
-
-- [jlord patchwork????](https://github.com/saranaseri/PNU_3991_AR/blob/main/patchwork.png)
-
 - [PNU_3991_AR](https://github.com/zahranazarzade/PNU_3991_AR)
+- [ ] [javascript Certificate???](https://github.com/saranaseri/PNU_3991_AR/blob/main/sololearn.js.jpeg)
+
 
 ## گروه ها
 
