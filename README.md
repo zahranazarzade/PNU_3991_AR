@@ -18,7 +18,7 @@
 
 2. **فعالیت گروهی**
     - **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
-        [لینک](https://github.com/zahranazarzade/PNU_3991_AR/tree/head/ResearchAndPresentationMethods/Latex%20193-195) :heavy_check_mark:
+        - :heavy_check_mark: [لینک](https://github.com/zahranazarzade/PNU_3991_AR/tree/head/ResearchAndPresentationMethods/Latex%20193-195) 
 
 
 
