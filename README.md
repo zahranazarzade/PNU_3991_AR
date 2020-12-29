@@ -10,7 +10,7 @@
 1. **فعالیت های مشترک همه دانشجویان**
 
 - :heavy_check_mark: [GITHUB](https://github.com/zahranazarzade)
-- :heavy_check_mark: jlord patchwork [link1](https://raw.githubusercontent.com/zahranazarzade/PNU_3991_AR/head/patchwork.png)  [link2](https://raw.githubusercontent.com/zahranazarzade/PNU_3991_AR/head/patchwork2.png)
+- :heavy_check_mark: jlord patchwork [link1](https://raw.githubusercontent.com/zahranazarzade/PNU_3991_AR/head/patchwork.png) and  [link2](https://raw.githubusercontent.com/zahranazarzade/PNU_3991_AR/head/patchwork2.png)
 - :heavy_check_mark: [RESUME](https://zahranazarzade.github.io/)
 - :heavy_check_mark: [SOP](https://zahranazarzade.github.io/sop)
 - :heavy_check_mark: [PNU_3991_AR](https://github.com/zahranazarzade/PNU_3991_AR)
@@ -18,7 +18,7 @@
 
 2. **فعالیت گروهی**
     - **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
-        :heavy_check_mark: [لینک](https://github.com/zahranazarzade/PNU_3991_AR/tree/head/ResearchAndPresentationMethods/Latex%20193-195)
+        [لینک](https://github.com/zahranazarzade/PNU_3991_AR/tree/head/ResearchAndPresentationMethods/Latex%20193-195) :heavy_check_mark:
 
 
 
