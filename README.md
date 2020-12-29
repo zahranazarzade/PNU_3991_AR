@@ -1,6 +1,12 @@
-# PNU_3991_AR
-------
-### زهرا نظرزاده
+# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+
+<div dir="rtl">
+
+--------------------------
+
+## زهرا نظرزاده
+
+### مشترک
 
 - [GITHUB](https://github.com/zahranazarzade)
 
@@ -16,11 +22,14 @@
 
 ## گروه ها
 
+<a name="G-R01"></a>
 1. G-R01
-    1. [_RPM01-05_بیتا شیرازی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/05_%D9%86%D8%A7%D8%B2%D9%86%D9%8A%D9%86%20%D8%A7%D9%85%D9%8A%D9%86%D9%8A%20%D8%B9%D8%B4%D9%82%20%D8%A7%D8%A8%D8%A7%D8%AF%D9%8A)    
-    1. [_RPM01-12_سارا ناصری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/12_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A)    
-    1. [_RPM01-16_فاطمه اکبرشاهی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/16_%D8%A2%D9%8A%D8%AF%D8%A7%20%D8%AD%D9%86%D9%8A%D9%81%D9%8A)    
-    1. [_RPM01-29_مهران صوفی قادری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/29_%D8%AD%D9%88%D8%B1%D8%A7%20%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A)    
+    1. [محمد حامد شادبه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/31_%D9%85%D8%AD%D9%85%D8%AF%D8%AD%D8%A7%D9%85%D8%AF%20%D8%B4%D8%A7%D8%AF%D8%A8%D9%87)
+    2. [مهسا حیدری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/17_%D9%85%D9%87%D8%B3%D8%A7%20%D8%AD%D9%8A%D8%AF%D8%B1%D9%8A)
+    3. [زهرا نظرزاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/65_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%86%D8%B8%D8%B1%D8%B2%D8%A7%D8%AF%D9%87)
+    4. [شهریار شمسی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/35_%D8%B4%D9%87%D8%B1%D9%8A%D8%A7%D8%B1%20%D8%B4%D9%85%D8%B3%D9%8A)
+    5. [محمد خلیلی اصل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/18_%D9%85%D8%AD%D9%85%D8%AF%20%D8%AE%D9%84%D9%8A%D9%84%D9%8A%20%D8%A7%D8%B5%D9%84)
+    
    ## Winter Semester Courses 1399/2020
 
 
@@ -41,89 +50,4 @@
 [1115088-01 اصول طراحي پايگاه داده ها]
 <br>
 
-
-  
-## روز و ساعت ارائه دروس
-
-<table style="width:100%">
-  <tr>
-     <th>20-22</th> 
-    <th>18-20</th>
-    <th>16-18</th>
-    <th>14-16</th>
-    <th>12-14</th>
-    <th>10-12</th>
-    <th>8-10</th>
-    <th>روز</th>
-  </tr>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>شبکه های کامپیوتری</th>
-    <th></th>
-    <th>شنبه</th>
-  </tr>
-   <tr>
-    <th></th>   
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>مباحث ویژه1</th>
-    <th></th>
-    <th></th>
-    <th>یک شنبه</th>
-  </tr>
-   <tr>
-     <th>مهندسی نرم افزار 1</th>
-     <th></th>
-     <th></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">روش پژوهش و ارائه</a></th>
-     <th></th>
-     <th>تاریخ فرهنگ و تمدن اسلامی</th>
-     <th></th>   
-    <th>دوشنبه</th>
-  </tr>
-   <tr>
-    <th>اصول طراحی پایگاه داده ها</th>
-    <th></th>
-    <th></th>
-    <th>سیستم عامل</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>سه شنبه</th>
-  </tr>
-   <tr>
-     <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>چهارشنبه</th>
-  </tr>
-   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>پنج شنبه</th>
-  </tr>
-     <tr>
-    <th>طراحی زبان های برنامه سازی</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>جمعه</th>
-  </tr>
-</table>
+</div>
