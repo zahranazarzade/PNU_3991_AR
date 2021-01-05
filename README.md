@@ -14,7 +14,7 @@
 - :heavy_check_mark: [RESUME](https://zahranazarzade.github.io/)
 - :heavy_check_mark: [SOP](https://zahranazarzade.github.io/sop)
 - :heavy_check_mark: [PNU_3991_AR](https://github.com/zahranazarzade/PNU_3991_AR)
-- :heavy_check_mark: [javascript Certificate](https://github.com/saranaseri/PNU_3991_AR/blob/main/sololearn.js.jpeg)
+- :heavy_check_mark: [javascript Certificate](https://github.com/zahranazarzade/PNU_3991_AR/blob/head/jsCertificate.pdf)
 
 2. **فعالیت گروهی**
     - **ارائه کتبی با لاتک از منابع دیگر به زبان اصلی**
